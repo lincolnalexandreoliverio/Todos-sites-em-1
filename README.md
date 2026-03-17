@@ -38,3 +38,5 @@ Lista de sites de filmes e séries em português
 |--------------------|--------------------------------------------------------|------|
 | Netflix            | O possível maior site/app de filmes e series do mundo  | [Acessar](https://www.netflix.com/br/) |
 | Prime vídeo        | O site/app oficial de filmes e séries da Amazon prime  | [Acessar](https://www.primevideo.com/) |
+| Disney plus        | O site/app oficial de filmes e séries da disney | [Acessar](https://www.disneyplus.com) | 
+| 
