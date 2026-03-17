@@ -6,7 +6,7 @@ Esse repositório visa agrupar todos os sites em pt br de jogos,filmes,séries,e
 ## 📋 SUMÁRIO 
 - [📌 Sobre o projeto](#-sobre-o-projeto)
 - [📁 Categorias](#-categorias)
-  - [Filmes e Séries](#filmes-e-series)
+  - [Filmes e Séries](#filmes-e-séries)
   - [Animes]()
   - [Doramas]()
   - [Vídeos]()
@@ -32,3 +32,9 @@ Este projeto é  um jeito de todos os brasileiros ter acesso a todos os links de
 ## 📁 Categorias 
 
 ### Filmes e Séries 
+Lista de sites de filmes e séries em português
+
+| Nome do Site       | Descrição                                              | Link |
+|--------------------|--------------------------------------------------------|------|
+| Netflix            | O possível maior site/app de filmes e series do mundo  | [Acessar](https://www.netflix.com/br/) |
+| Prime vídeo        | O site/app oficial de filmes e séries da Amazon prime  | [Acessar](https://www.primevideo.com/)
