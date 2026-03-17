@@ -79,7 +79,7 @@ Lista de sites de doramas em português
 | Nome do Site       | Descrição                                              | Link |
 |--------------------|--------------------------------------------------------|------|
 | WeTv | Site para assistir doramas online gratuitamente | [Acessar](https://wetv.vip/pt) |
-| Viki | Um site para assistir doramas e k-dramas online gratuitamente [Acessar](https://www.viki.com/?locale=pt) |
+| Viki | Um site para assistir doramas e k-dramas online gratuitamente | [Acessar](https://www.viki.com/?locale=pt) |
 
 ---
 
@@ -89,4 +89,4 @@ Lista de sites que para assistir vídeos online
 | Nome do Site       | Descrição                                              | Link |
 |--------------------|--------------------------------------------------------|------|
 | Youtube | A mais famosa plataforma de vídeo do mundo | [Acesso](https://www.youtube.com/)
-| Dailymotion | O dailymotion
+| Dailymotion | O dailymotion te proporçõe Vídeos e música | [Acesso](https://www.dailymotion.com/br) |
