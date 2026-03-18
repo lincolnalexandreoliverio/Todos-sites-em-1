@@ -1,5 +1,5 @@
 # Todos-sites-em-1
-Esse repositório visa agrupar todos os sites em pt br de jogos,filmes,séries,etc...
+Esse repositório visa agrupar todos os sites em pt br de jogos,filmes,séries,etc... não serão  apenas sites brasileiros serão sites que tem sua versão em pt-br
 
 Observação:caso queira que eu coloque um site aqui faça um pull request
 Como abrir um pull request: Ford esse repositório, adicione o novo site no arquivo Readme.md e envie o pull request com uma descrição das alterações.
@@ -13,13 +13,14 @@ Como abrir um pull request: Ford esse repositório, adicione o novo site no arqu
   - [Filmes e Séries grátis](#filmes-e-séries-grátis)
   - [Animes](#animes)
   - [Doramas](#doramas)
-  - [Vídeos]()
-  - [Filmes e Séries indies]()
+  - [Vídeos](#vídeos)
+  - [Filmes e Séries indies](#filmes-e-séries-indies)
   - [Quadrinhos]()
   - [Mangás]()
   - [Livros]()
   - [Quadrinhos indies]()
   - [Notícias]()
+  - [
 - [🙂 Agradecimentos]()
 
 ---
@@ -89,4 +90,18 @@ Lista de sites que para assistir vídeos online
 | Nome do Site       | Descrição                                              | Link |
 |--------------------|--------------------------------------------------------|------|
 | Youtube | A mais famosa plataforma de vídeo do mundo | [Acesso](https://www.youtube.com/)
-| Dailymotion | O dailymotion te proporçõe Vídeos e música | [Acesso](https://www.dailymotion.com/br) |
+| Dailymotion | O dailymotion te da Vídeos e música| [Acesso](https://www.dailymotion.com/br) |
+| Rumble | E como um youtube alternativo ele tem a versão em português porém não tem quase nenhum canal brasileiro | [Acessar](https://rumble.com/) |
+
+---
+
+### Filmes e Séries Indies
+Lista de sites com filmes e séries indies
+
+| Nome do Site       | Descrição                                              | Link |
+|--------------------|--------------------------------------------------------|------|
+| Libreflix | O maior site de filmes e séries independentes | [Acessar](https://libreflix.org/) |
+| Filmicca | Plataforma focada em cinema autoral e independente com opção de conteúdo por assinatura, mas frequentemente libera curadoria especial | [Acessar](https://www.filmicca.com.br/) |
+| Sesc Digital | é a plataforma oficial do Sesc São Paulo que reúne acervos, cursos gratuitos e uma vasta programação cultural on-line e gratuita | [Acessar](https://sesc.digital/home) |
+| Itaú Cultural Play | Streaming gratuito com catálogo focado em produções brasileiras, incluindo mostras e festivais | [Acessar](https://www.itauculturalplay.com.br/) |
+| LGBTflix | Focada em produções independentes com temática LGBTQIA+ | [Acessar](https://flix.votelgbt.org/) |
